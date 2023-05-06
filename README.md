@@ -1,4 +1,4 @@
-# Galleria---
+# Galleria-SASS
 
 
 ## 📝 Apresentação:
